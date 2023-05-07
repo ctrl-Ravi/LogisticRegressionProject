@@ -31,8 +31,7 @@ The goal of this project is to build a Logistic Regression model to predict the 
 
 ## Deployment
 
-The model can be deployed using various cloud platforms like Heroku, AWS, or Google Cloud Platform. Detailed instructions for deployment can be found in the [`deployment.md`](deployment.md) file.
-
+The model can be deployed using various cloud platforms like Heroku, AWS, or Google Cloud Platform.
 ## Contributing
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request with your proposed changes.
